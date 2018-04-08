@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PinnedCursorPositionEditText">
+        <attr name="cursorPosition" format="enum">
+            <enum name="end" value="1" />
+            <enum name="start" value="2" />
+        </attr>
+    </declare-styleable>
+
+</resources>
